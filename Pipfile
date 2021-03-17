@@ -1,0 +1,16 @@
+[[source]] # Here goes your package sources (where you are downloading your packages from).
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages] # Here goes your package requirements for running the application and its versions (which packages you will use when running the application).
+requests = "*"
+flask = "*"
+pandas = "*"
+
+[dev-packages] # Here goes your package requirements for developing the application and its versions (which packages you will use when developing the application)
+pylint = "*"
+wheel = "*"
+
+[requires] # Here goes your required Python version.
+python_version = "3.6"
