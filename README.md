@@ -4,6 +4,8 @@ Smart Home Photovoltaik / ( Multi- ) Inverter / Logger with influxDB and grafana
 
 formely only accessible via an german forum and orginally created by Ulrich ( solaranzeige.de )
 
+forked minmal version for Pi's ( based on Raspberry Pi OS Lite, Debian Buster ), docker, Pi's, Diskstations like Synology, UnRaid, OpenMediaVault
+
 List of currently supported devices: 
 - IVT controller SCplus and SCDplus
 - Steca TAROM 6000 and TAROM 4545
