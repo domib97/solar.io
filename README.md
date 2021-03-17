@@ -61,9 +61,9 @@
 ### To Do's :
 
 - [x] *port solaranzeige.de to docker: thanks to* **@DeBaschdi** : https://github.com/DeBaschdi/docker.solaranzeige
-- [x] *make it GPLv3 compliant*
+- [x] *make it GPLv3 compliant* -> https://github.com/domib97/solar.io
 - [ ] port solaranzeige.de to Pi OS Lite -> WIP
-- [ ] finish debloating solaranzeige
+- [ ] finish debloating solaranzeige.de
 - [ ] complete english doc's
 - [ ] add new features like alternitive dashboards : https://github.com/Tafkas/solarpi
 
