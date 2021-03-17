@@ -60,7 +60,7 @@
 
 ### To Do's :
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] port solaranzeige to docker: thanks to @DeBaschdi : https://github.com/DeBaschdi/docker.solaranzeige
+- [ ] port to Pi OS Lite
+- [ ] finish debloating solaranzeige
+
