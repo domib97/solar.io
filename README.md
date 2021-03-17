@@ -1,6 +1,6 @@
 # solar.io
 
-[![Join the chat at https://gitter.im/solar-io/community](https://badges.gitter.im/solar-io/community.svg)](https://gitter.im/solar-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/domib97/solar.io/pulls)
+[![Join the chat at https://gitter.im/solar-io/community](https://badges.gitter.im/solar-io/community.svg)](https://gitter.im/solar-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://opensource.org/licenses/GPL-3.0) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/domib97/solar.io/pulls)
 
 --------------------------------------------------------------------------------------------------------------------
 
