@@ -3,7 +3,7 @@
 
 ### -> Smart Home Photovoltaik / ( Multi- ) Inverter RJ45 / Logger with influxDB and grafana
 
-### -> to run on: docker, arm32/64 like Pi4 (Pi OS Lite, Debian Buster), Synology (NAS), UnRaid, OpenMediaVault
+### -> to run on: docker (*thanks to* **@DeBaschdi**), arm32/64 like Pi4 (Pi OS Lite, Debian Buster), Synology (NAS), UnRaid, OpenMediaVault
 
 ### -> orginally created by *@Ulrich* and only distributed on his website: https://solaranzeige.de/phpBB3/solaranzeige.php
 
