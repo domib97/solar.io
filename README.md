@@ -6,7 +6,7 @@
 
 ### formely only accessible via an german forum and orginally created by Ulrich ( solaranzeige.de )
 
-#### List of currently supported devices: 
+List of currently supported devices: 
 - IVT controller SCplus and SCDplus
 - Steca TAROM 6000 and TAROM 4545
 - Steca Solarix PLI 5000-48
