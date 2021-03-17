@@ -63,4 +63,5 @@
 - [x] *port solaranzeige to docker: thanks to* @DeBaschdi : https://github.com/DeBaschdi/docker.solaranzeige
 - [ ] port to Pi OS Lite
 - [ ] finish debloating solaranzeige
+- [ ] complete english doc's
 
