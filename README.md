@@ -1,8 +1,6 @@
 # solar.io
 
-[![Join the chat at https://gitter.im/solar-io/community](https://badges.gitter.im/solar-io/community.svg)](https://gitter.im/solar-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://github.com/domib97/solar.io/issues)
+[![Join the chat at https://gitter.im/solar-io/community](https://badges.gitter.im/solar-io/community.svg)](https://gitter.im/solar-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 --------------------------------------------------------------------------------------------------------------------
 
