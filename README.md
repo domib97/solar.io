@@ -10,7 +10,7 @@
 
 ### -> orginally created by *@Ulrich* and only distributed on his website: https://solaranzeige.de/phpBB3/solaranzeige.php
 
-### -> goal of this repo: a leight-weight, fully ducumented, GPLv3 fork of "solaranzeige"
+### -> goal of this repo: a leight-weight, fully documented, GPLv3 fork of "solaranzeige"
 
 --------------------------------------------------------------------------------------------------------------------
 
