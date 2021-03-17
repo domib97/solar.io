@@ -1,1 +1,28 @@
-domib97
+{
+  "projectName": "all-contributors",
+  "projectOwner": "all-contributors",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "contributors": [
+    {
+      "login": "domib97",
+      "name": "Dominik Boehm",
+      "avatar_url": "",
+      "profile": "m",
+      "contributions": [
+        "question",
+        "doc",
+        "review",
+        "talk"
+      ]
+    },
+ 
+ ],
+  "repoType": "github",
+  "contributorsPerLine": 7,
+  "repoHost": "https://github.com",
+  "commitConvention": "angular",
+  "skipCi": true
+}
