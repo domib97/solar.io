@@ -5,7 +5,7 @@
 
 ### -> to run on: docker, arm32/64 like Pi4 (Pi OS Lite, Debian Buster), Synology (NAS), UnRaid, OpenMediaVault
 
-### -> formely only accessible via a german forum and orginally created by Ulrich ( solaranzeige.de )
+### -> orginally created by **@Ulrich** and only distributed on his website : solaranzeige.de
 
 --------------------------------------------------------------------------------------------------------------------
 
