@@ -65,5 +65,5 @@
 - [ ] port solaranzeige.de to Pi OS Lite -> WIP
 - [ ] finish debloating solaranzeige
 - [ ] complete english doc's
-- [ ] add new features and 
+- [ ] add new features like alternitive dashboards : https://github.com/Tafkas/solarpi
 
