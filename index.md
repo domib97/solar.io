@@ -4,7 +4,7 @@
 
 --------------------------------------------------------------------------------------------------------------------
 
-### -> Smart Homelului Photovoltaik / ( Multi- ) Inverter RJ45 / Logger with influxDB and grafana
+### -> Smart Home Photovoltaik / ( Multi- ) Inverter RJ45 / Logger with influxDB and grafana
 
 ### -> to run on: docker (*thanks to* **@DeBaschdi**), arm32/64 like Pi4 (Pi OS Lite, Debian Buster), Synology (NAS), UnRaid, OpenMediaVault
 
