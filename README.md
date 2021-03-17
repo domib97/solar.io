@@ -66,9 +66,16 @@
 ### To Do's :
 
 - [x] *port solaranzeige.de to docker: thanks to* **@DeBaschdi** : https://github.com/DeBaschdi/docker.solaranzeige
-- [x] *make it GPLv3 compliant* -> https://github.com/domib97/solar.io
+- [x] *make it GPLv3 compliant*
 - [ ] port solaranzeige.de to Pi OS Lite -> WIP
 - [ ] finish debloating solaranzeige.de
 - [ ] complete english doc's
+- [ ] openHAB integration : https://www.openhab.org
 - [ ] add new features like alternitive dashboards : https://github.com/Tafkas/solarpi
+- [ ] native weather forecast and pv-energy-prediction
+- [ ] make the predictions more precise : https://github.com/ColasGael/Machine-Learning-for-Solar-Energy-Prediction
+- [ ] ?(python port)? : https://github.com/basking-in-the-sun2000/solar-logger
+
+**If anyone can help with anything, feel free to contribute and make a pull request!**
+
 
