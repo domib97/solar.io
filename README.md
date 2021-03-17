@@ -1,4 +1,7 @@
 # solar.io
+
+[![Join the chat at https://gitter.im/solar-io/community](https://badges.gitter.im/solar-io/community.svg)](https://gitter.im/solar-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 --------------------------------------------------------------------------------------------------------------------
 
 ### -> Smart Home Photovoltaik / ( Multi- ) Inverter RJ45 / Logger with influxDB and grafana
