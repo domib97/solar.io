@@ -72,6 +72,7 @@
 - [ ] complete english doc's
 - [ ] openHAB integration : https://www.openhab.org
 - [ ] add new features like alternitive dashboards : https://github.com/Tafkas/solarpi
+- [ ] add fancy animations : https://github.com/reptilex/tesla-style-solar-power-card
 - [ ] native weather forecast and pv-energy-prediction
 - [ ] make the predictions more precise : https://github.com/ColasGael/Machine-Learning-for-Solar-Energy-Prediction
 - [ ] ?(python port)? : https://github.com/basking-in-the-sun2000/solar-logger
