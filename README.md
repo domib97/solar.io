@@ -1,4 +1,5 @@
 # solar.io
+--------------------------------------------------------------------------------------------------------------------
 
 ### -> Smart Home Photovoltaik / ( Multi- ) Inverter RJ45 / Logger with influxDB and grafana
 
@@ -17,7 +18,8 @@ List of currently supported devices:
 - Effekta AX series
 - Voltronic Axpert series
 - InfiniSolar PIP series, V series
-- MPPSolar PIP HSE / MSE series, PIP-MS/MSX series, MIP Hybrid 3 phases 10kW, 2424-msd with 2 x MPPT, 2424-msd with 2 x MPPT, 5048MK and 5048GK
+- MPPSolar PIP HSE / MSE series, PIP-MS/MSX series, MIP Hybrid 3 phases 10kW,
+- MPPSolar 2424-msd with 2 x MPPT, 2424-msd with 2 x MPPT, 5048MK and 5048GK
 - SolarMax S series and MT series
 - Fronius Symo inverter 3 phases and others
 - AutarcTech Joulie-16 BMS battery management system
@@ -41,7 +43,8 @@ List of currently supported devices:
 - KACO inverter TL3 series
 - SDM630 Energy Meter
 - Wallbe wallbox
-- EAsun ISolar V III Off-Grid Inverter identical to the MPPSolar 5048 MK and GK series, ISolar SPV SMV 1KVA-5KVA Inverter identical to the Effakta AX series
+- EAsun ISolar V III Off-Grid inverter ( like MPPSolar 5048 MK and GK series),
+- EAsun ISolar SPV SMV 1KVA-5KVA inverter ( like Effakta AX series )
 - Delta inverter SI 2500
 - ALPHA ESS T10 inverter
 - Simple EVSE wallbox
