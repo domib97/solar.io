@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/solar-io/community](https://badges.gitter.im/solar-io/community.svg)](https://gitter.im/solar-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://opensource.org/licenses/GPL-3.0) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/domib97/solar.io/pulls) ![GitHub pull requests](https://img.shields.io/github/issues-pr/domib97/solar.io?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/domib97/solar.io?style=flat-square) 
 
-![GitHub language count](https://img.shields.io/github/languages/count/domib97/solar.io?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/domib97/solar.io?style=flat-square) ![GitHub search hit counter](https://img.shields.io/github/search/domib97/solar.io/goto?style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/domib97/solar.io?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/domib97/solar.io?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/domib97/solar.io?style=flat-square) ![GitHub search hit counter](https://img.shields.io/github/search/domib97/solar.io/goto?style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/domib97/solar.io?style=flat-square) ![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fdomib97.github.io%2Fsolar.io%2F)
 
 --------------------------------------------------------------------------------------------------------------------
 
