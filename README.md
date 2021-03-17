@@ -1,10 +1,10 @@
 # solar.io
 
-### - - Smart Home Photovoltaik / ( Multi- ) Inverter RJ45 / Logger with influxDB and grafana
+### -> Smart Home Photovoltaik / ( Multi- ) Inverter RJ45 / Logger with influxDB and grafana
 
-### -- to run on: docker, arm32/64 like Pi4 (Pi OS Lite, Debian Buster), Synology (NAS), UnRaid, OpenMediaVault
+### -> to run on: docker, arm32/64 like Pi4 (Pi OS Lite, Debian Buster), Synology (NAS), UnRaid, OpenMediaVault
 
-### -- formely only accessible via an german forum and orginally created by Ulrich ( solaranzeige.de )
+### -> formely only accessible via an german forum and orginally created by Ulrich ( solaranzeige.de )
 
 
 List of currently supported devices:
