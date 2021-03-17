@@ -30,7 +30,7 @@
 - [ ] add fancy animations : https://github.com/reptilex/tesla-style-solar-power-card
 - [ ] native weather forecast and pv-energy-prediction
 - [ ] make the predictions more precise : https://github.com/ColasGael/Machine-Learning-for-Solar-Energy-Prediction
-- [ ] create a dummmy-inverter for testing woithout real hardware
+- [ ] create a dummmy-inverter for testing without real hardware
 - [ ] ?(python port)? : https://github.com/basking-in-the-sun2000/solar-logger
 
 **If anyone can help with anything, feel free to contribute and make a pull request!**
