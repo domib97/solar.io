@@ -70,6 +70,7 @@
 - [ ] port solaranzeige.de to Pi OS Lite -> WIP
 - [ ] finish debloating solaranzeige.de
 - [ ] complete english doc's
+- [ ] pull request docker.solaranzeige
 - [ ] openHAB integration : https://www.openhab.org
 - [ ] add new features like alternitive dashboards : https://github.com/Tafkas/solarpi
 - [ ] add fancy animations : https://github.com/reptilex/tesla-style-solar-power-card
