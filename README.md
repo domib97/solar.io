@@ -5,7 +5,9 @@
 
 ### -> to run on: docker, arm32/64 like Pi4 (Pi OS Lite, Debian Buster), Synology (NAS), UnRaid, OpenMediaVault
 
-### -> orginally created by *@Ulrich* and only distributed on his website : https://solaranzeige.de/phpBB3/solaranzeige.php
+### -> orginally created by *@Ulrich* and only distributed on his website: https://solaranzeige.de/phpBB3/solaranzeige.php
+
+### -> goal of this repo: a leight-weight, fully ducumented, GPLv3 fork of "solaranzeige"
 
 --------------------------------------------------------------------------------------------------------------------
 
