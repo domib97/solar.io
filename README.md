@@ -5,11 +5,11 @@
 
 ### -> to run on: docker, arm32/64 like Pi4 (Pi OS Lite, Debian Buster), Synology (NAS), UnRaid, OpenMediaVault
 
-### -> formely only accessible via an german forum and orginally created by Ulrich ( solaranzeige.de )
+### -> formely only accessible via a german forum and orginally created by Ulrich ( solaranzeige.de )
 
 --------------------------------------------------------------------------------------------------------------------
 
-List of currently supported devices:
+### List of currently supported devices:
 - IVT controller SCplus and SCDplus
 - Steca TAROM 6000 and TAROM 4545 / Solarix PLI 5000-48
 - Tracer series controllers
@@ -55,3 +55,12 @@ List of currently supported devices:
 - Huawei SUN2000 inverter
 - Phoenix Contact Wallbox
 - Growatt inverter
+
+--------------------------------------------------------------------------------------------------------------------
+
+### To Do's :
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
